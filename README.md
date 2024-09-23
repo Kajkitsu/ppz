@@ -1,4 +1,4 @@
-# ppz
+# Programistyczny Projekt Zespołowy - 2024_2025
 
 ## Link do zadania na GitHub Classroom:
 [https://classroom.github.com/classrooms/142739171-ppz_woli-2024_2025](https://classroom.github.com/a/aFs99Z5l](https://classroom.github.com/a/aFs99Z5l)
