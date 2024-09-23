@@ -1,7 +1,7 @@
 # Programistyczny Projekt Zespołowy - 2024_2025
 
 ## Link do zadania na GitHub Classroom:
-[https://classroom.github.com/classrooms/142739171-ppz_woli-2024_2025](https://classroom.github.com/a/aFs99Z5l](https://classroom.github.com/a/aFs99Z5l)
+[https://classroom.github.com/classrooms/142739171-ppz_woli-2024_2025](https://classroom.github.com/a/aFs99Z5l)
 
 ## Link do przykładowego opisu projektu:
 [https://github.com/Kajkitsu/ppz-example/blob/master/README.md](https://github.com/Kajkitsu/ppz-example/blob/master/README.md)
@@ -34,7 +34,7 @@
 - 12.05 – wszyscy - s. 313
 - 19.05 – 3a
 - 26.05 – 3b
-- 02.06 – 3c  - ** KONIEC 4 etapu**
+- 02.06 – 3c  - **KONIEC 4 etapu**
 - 16.06 - wszyscy - s. 313 - **termin poprawkowy i podsumowanie zajęć**
 
 ## Zasady i złote rady
