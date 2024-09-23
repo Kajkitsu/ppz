@@ -14,7 +14,7 @@
 - 25.11 – 3c
 - 02.12 – wszyscy - s. 313
 - 09.12 – 3a
-- 16.12 – 3b -** KONIEC 2 etapu**
+- 16.12 – 3b - **KONIEC 2 etapu**
 - 13.01 – 3c
 - 20.01 – wszyscy - s. 313
 - 27.01 – 3a
