@@ -27,14 +27,14 @@
 - 10.03 – 3a
 - 17.03 – 3b
 - 24.03 – 3c
-- 31.03 – wszyscy - s. 313 - **KONIEC 3 etapu**
+- 31.03 – wszyscy - s. 313
 - 07.04 – 3a
 - 14.04 – 3b
 - 28,04 - 3c
-- 12.05 – wszyscy - s. 313
-- 19.05 – 3a
-- 26.05 – 3b
-- 02.06 – 3c  - **KONIEC 4 etapu**
+- 12.05 – wszyscy - s. 313 **sprawdzian**
+- 19.05 – 3a - **sprawdzian i ocena projektu**
+- 26.05 – 3b - **sprawdzian i ocena projektu**
+- 02.06 – 3c - **sprawdzian i ocena projektu**
 - 16.06 - wszyscy - s. 313 - **termin poprawkowy i podsumowanie zajęć**
 
 ## Zasady i złote rady
