@@ -31,10 +31,10 @@
 - 07.04 – 3a
 - 14.04 – 3b
 - 28,04 - 3c
-- 12.05 – wszyscy - s. 313 **sprawdzian**
 - 19.05 – 3a - **sprawdzian i ocena projektu**
 - 26.05 – 3b - **sprawdzian i ocena projektu**
 - 02.06 – 3c - **sprawdzian i ocena projektu**
+- 09.06 - – wszyscy - s. 313 **sprawdzian**
 - 16.06 - wszyscy - s. 313 - **termin poprawkowy i podsumowanie zajęć**
 
 ## Zasady i złote rady
